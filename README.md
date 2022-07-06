@@ -3,7 +3,7 @@ Anaylsis of Election results using Python to Read in a CSV File and provide the 
 
 1. The Election Results Printed to command Line
 2. The Election Results Saved to a Text File.
-3. A written Analysis of the Election Audit
+3. A Written Analysis of the Election Audit
 
 # Overview of Election Audit:
 
