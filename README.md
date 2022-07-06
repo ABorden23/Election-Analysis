@@ -35,21 +35,21 @@ Results with detail analysis:
 
 2. Each candidate’s total votes and percentage of votes.
 
-![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Election%20Results.png)
+![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Canidates%20Percentage%20of%20Votes.png)
 
 3. Winner of the election, Winning vote count, and winning percentage of votes.
 
-![This is an image]()
+![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Winner%20of%20the%20Election.png)
 
 # County Results 
 
 1. Each county with its total vote count and percentage.
 
-![This is an image]()
+![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/County%20Votes%20and%20Percentages%20.png)
 
 2. County with the largest number of voters is printed to the terminal.
 
-![This is an image]()
+![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Largest%20Number%20of%20Voters.png)
 
 # txt. File Results 
 
