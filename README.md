@@ -81,4 +81,4 @@ In addition, Diana DeGette has the total percentage votes of 73.7%
 
 # Resources 
 Data Source: election_results.csv\
-Software: Python 3.7.6, Visual Studio Code 1.50.0
+Software: Python 3.7.6, Visual Studio Code 1.68.1
