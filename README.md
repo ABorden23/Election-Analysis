@@ -17,7 +17,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 * Calculate the total number of votes each candidate received.
 * Calculate the total number of votes each candidate received.
 * Calculate the percentage of votes each candidate won.
-* Determine the winner of the election based on popular vote.*
+* Determine the winner of the election based on popular vote.
 
 # Election-Audit Results: 
 
