@@ -21,10 +21,6 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 # Election-Audit Results: 
 
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-* How many votes were cast in this congressional election?
-
 # Candidate Results
 
 1. Total Votes in the election
