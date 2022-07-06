@@ -23,7 +23,7 @@ A Colorado Board of Elections has requested to complete the election audit of a 
 
 # Candidate Results
 
-1. Total Votes in the election
+1. Total votes in the election.
 
 ![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Total%20Votes%20Code.png)
 
@@ -33,13 +33,13 @@ Results with detail analysis:
 
 ![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Canidates%20Percentage%20of%20Votes.png)
 
-3. Winner of the election, Winning vote count, and winning percentage of votes.
+3. Winner of the election, winning vote count, and winning percentage of votes.
 
 ![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Winner%20of%20the%20Election.png)
 
 # County Results 
 
-1. Each county with its total vote count and percentage.
+1. Each county with it's total vote count and percentage.
 
 ![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/County%20Votes%20and%20Percentages%20.png)
 
