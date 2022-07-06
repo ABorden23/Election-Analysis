@@ -27,7 +27,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
 # Candidate Results
 
-1. 1. Total Votes in the election
+1. Total Votes in the election
 
 ![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Total%20Votes%20Code.png)
 
