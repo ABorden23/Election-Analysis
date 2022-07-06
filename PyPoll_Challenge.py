@@ -1,5 +1,4 @@
-# -*- coding: UTF-8 -*-
-"""PyPoll Homework Challenge Solution."""
+"""PyPoll Challenge Solution."""
 
 # Add our dependencies.
 import csv
@@ -76,7 +75,7 @@ with open(file_to_load) as election_data:
 
 
         # 5: Add a vote to that county's vote count.
-            county_votes[county_name] += 1
+        county_votes[county_name] += 1
 
 
 # Save the results to our text file.
