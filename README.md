@@ -29,7 +29,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 
 1. 1. Total Votes in the election
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/ABorden23/Election-Analysis--UCF-Data-Analytics-/blob/master/resources/Total%20Votes%20Code.pngg)
 
 
 
